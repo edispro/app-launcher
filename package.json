@@ -1,15 +1,15 @@
 {
-  "_from": "edispro/app-launcher",
-  "_id": "edispro/app-launcher@5.4.0",
+  "_from": "@ionic-native/app-launcher",
+  "_id": "@ionic-native/app-launcher@5.4.0",
   "_inBundle": false,
   "_integrity": "sha512-0ADS6Q4zC+9pOlVNKUYAkTmgWdbh82FNdCCl337Kj0jxxUt0IwK8huYnpCrvvZ5RVvgX7GUiIcJNReGM13WGEQ==",
-  "_location": "/edispro/app-launcher",
+  "_location": "/@ionic-native/app-launcher",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "edispro/app-launcher",
-    "name": "edispro/app-launcher",
+    "raw": "@ionic-native/app-launcher",
+    "name": "@ionic-native/app-launcher",
     "escapedName": "@ionic-native%2fapp-launcher",
     "scope": "edispro",
     "rawSpec": "",
@@ -30,7 +30,7 @@
   "homepage": "https://github.com/ionic-team/ionic-native#readme",
   "license": "MIT",
   "module": "index.js",
-  "name": "edispro/app-launcher",
+  "name": "@ionic-native/app-launcher",
   "peerDependencies": {
     "rxjs": "^6.3.0",
     "@ionic-native/core": "^5.1.0"
