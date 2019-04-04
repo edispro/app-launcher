@@ -1,6 +1,6 @@
 {
   "_from": "edispro/app-launcher",
-  "_id": "edispro/app-launcher@1.0.0",
+  "_id": "edispro/app-launcher@5.4.0",
   "_inBundle": false,
   "_integrity": "sha512-0ADS6Q4zC+9pOlVNKUYAkTmgWdbh82FNdCCl337Kj0jxxUt0IwK8huYnpCrvvZ5RVvgX7GUiIcJNReGM13WGEQ==",
   "_location": "/edispro/app-launcher",
@@ -30,11 +30,11 @@
   "homepage": "https://github.com/ionic-team/ionic-native#readme",
   "license": "MIT",
   "module": "index.js",
-  "name": "@ionic-native/app-launcher",
+  "name": "edispro/app-launcher",
   "peerDependencies": {
     "rxjs": "^6.3.0",
     "@ionic-native/core": "^5.1.0"
   },
   "typings": "index.d.ts",
-  "version": "1.0.0"
+  "version": "5.4.0"
 }
