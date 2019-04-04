@@ -6,7 +6,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-app-launcher
-$ npm install @ionic-native/app-launcher
+$ npm install --save https://github.com/edispro/app-launcher.git
 ```
 
 ## [Usage Documentation](https://ionicframework.com/docs/native/app-launcher/)
